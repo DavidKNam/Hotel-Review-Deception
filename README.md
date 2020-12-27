@@ -1,4 +1,4 @@
-# Hotel-Review-Deception
+# Looking for Deception within Hotel Reviews
 
 **Motivation / Problem Statement:**
 
